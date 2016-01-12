@@ -1,4 +1,4 @@
-# newsfeed-master
+# Postall
 
 This is a newsfeed generator that relies on Masonry to create a collection/grid of your favorite sites (which includes Youtube, Flickr, and Soundcloud)
 

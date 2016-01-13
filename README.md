@@ -8,6 +8,10 @@ This was built with a standard MVC model using NodeJS, MongoDB and Handlebars.js
 
 To Run the program, make sure you have MongoDB and NodeJS installed:
 
-1) cd into the downloaded project and run mongod --dbpath dataStorage
+1) cd into the downloaded project and run npm install
+
+2) Now start mongo with "mongod --dbpath dataStorage"
+
 2) In another terminal call: node app.js
+
 3) Visit localhost:3000 and use the site
